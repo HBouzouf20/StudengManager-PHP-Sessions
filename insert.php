@@ -20,7 +20,7 @@
                     <!-- Email input -->
                     <div data-mdb-input-init class="form-outline">
                         <input type="text" id="form8Example2" name="lastname" class="form-control" />
-                        <label class="form-label" for="form8Example2">Lastname</label>
+                        <label class="form-label" for="form8Example2">Lastname : </label>
                     </div>
                 </div>
             </div>
