@@ -43,15 +43,15 @@ session_start();
         <div class="card-body">
             <div class="row">
                 <div class="col-6">
-                    <h5>Firstname</h5>
+                    <h5>Firstname :</h5>
                     <p><?php printf($_POST['firstname']) ?></p>
                 </div>
                 <div class="col-6">
-                    <h5>Lastname</h5>
+                    <h5>Lastname :</h5>
                     <p><?php printf($_POST['lastname']) ?></p>
                 </div>
                 <div class="col-6">
-                    <h5>Birthdate</h5>
+                    <h5>Birthdate: </h5>
                     <p><?php printf($_POST['birthdate']) ?></p>
                 </div>
                 <div class="col-6">
